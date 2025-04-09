@@ -50,6 +50,6 @@ fetchPost();
       console.error("Error fetching data:", error.message);
     }
   }
-fetchPostAsync(); // Call the function to test it
+fetchPostAsync(); 
 
   
